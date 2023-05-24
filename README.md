@@ -15,6 +15,7 @@
    <h2>Descrição do Exercício</h2>
 
    <p>Neste exercício, exploramos a criação de e-mails estáticos utilizando HTML e imagens, e também utilizamos o GitHub para hospedar as imagens dos e-mails. Em vez de incluir as imagens diretamente no código HTML, usamos URLs de imagem que apontam para os arquivos hospedados no GitHub. Essa abordagem nos permite ter uma melhor organização dos arquivos e facilita o compartilhamento e o acesso aos recursos.</p>
+  <p>Como desafio de conclusão de módulo, tivemos que desenvolver um e-mail para uma lista de postagens de um blog, o qual eu escolhi como um blog de notícias, e aplicar os conhecimentos adquiridos durante o módulo.</p>
 
    <h2>Conclusão</h2>
   <p>Este repositório serve como um ponto de partida para a criação de e-mails estáticos usando HTML e imagens, com o uso do GitHub e da Vercel para hospedagem das imagens para exibição e compartilhamento do e-mail. Sinta-se à vontade para explorar e personalizar o código para atender às suas necessidades específicas. Divirta-se construindo e-mails visualmente atraentes e aproveite a integração com as plataformas de hospedagem!</p>
@@ -28,17 +29,20 @@
  <h2>
     Pré-visualização
  </h2>
-  
-  <h3>E-mail 1</h3>
+  <h3>Desafio de conclusão do Módulo</h3>
+  <img width="500" src="https://github.com/fde95/servidor_estaticos/assets/123211425/fe5eb746-b412-43e0-9c31-a1866d4f6ae1">
+  <br>
+  <br>
+  <h3>Exercício: E-mail 1</h3>
   <img width="400" src="https://github.com/fde95/servidor_estaticos/assets/123211425/c5638c16-2c82-4dd3-88c2-d1ea881fc489">
   <br>
-  <h3>E-mail 2</h3>
+  <h3>Exercício: E-mail 2</h3>
   <img width="400" src="https://github.com/fde95/servidor_estaticos/assets/123211425/f0703ca9-edc3-45a3-a0ee-8d05cca981c1">
   <br>
-  <h3>E-mail 3</h3>
+  <h3>Exercício: E-mail 3</h3>
   <img width="400" src="https://github.com/fde95/servidor_estaticos/assets/123211425/e242e4e4-82dd-4b9b-8e87-8c34d34eec64">
   <br>
-  <h3>E-mail 4</h3>
+  <h3>Exercício: E-mail 4</h3>
   <img width="400" src="https://github.com/fde95/servidor_estaticos/assets/123211425/821761af-c4a5-4ab7-894b-ca154cf610e0">
   <br>
 
